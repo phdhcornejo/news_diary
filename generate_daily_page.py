@@ -1,7 +1,7 @@
 """
-Global Business, Finance & Entrepreneurship Social & Corporate Intelligence Scraper
-Monitors top business leaders, major corporations, and public social media discussions
-(LinkedIn, X/Twitter, Reddit, Substack, Corporate Newsrooms) using zero-cost RSS/Web feeds.
+Global Business, Finance & Entrepreneurship Social & Corporate Intelligence Radar
+Repository: phdhcornejo/news_diary
+Live Web Target: https://globalbusinessradar.netlify.app
 Self-contained Python 3.10+ standard library script.
 """
 
@@ -21,6 +21,7 @@ import xml.etree.ElementTree as ET
 # ==========================================
 OUTPUT_DIR = Path("global_business_radar")
 NETLIFY_SITE_URL = "https://globalbusinessradar.netlify.app"
+PUBLICATION_NAME = "Global Business, Finance & Leadership Brief"
 
 # 1. Direct Corporate Newsrooms, Thought Leaders & Entrepreneurship Feeds
 DIRECT_FEEDS = [
@@ -181,7 +182,6 @@ def fetch_rss(source_label: str, url: str, base_bonus: float, channel: str, time
         pub_raw = (item.findtext("pubDate") or "").strip()
         pub_dt = parse_pub_date(pub_raw)
 
-        # Extract original publisher if present in Google News <source> tag
         source_tag = item.find("source")
         publisher = clean_html(source_tag.text) if source_tag is not None and source_tag.text else source_label
 
@@ -221,21 +221,17 @@ def classify_and_score(article: dict) -> dict:
         if re.search(r"\b" + re.escape(topic) + r"\b", haystack):
             score += weight
 
-    # Bonus for hard metrics ($ amounts, %, valuation multiples)
     if re.search(r"(\$\d+(\.\d+)?\s?(billion|million|b|m)?|\d+(\.\d+)?%)", haystack):
         score += 2.5
 
-    # Penalize strict paywall domains
     host = urllib.parse.urlparse(article["link"]).netloc.lower()
     if any(host == d or host.endswith("." + d) for d in PAYWALL_DOMAINS):
         score -= 8.0
 
-    # Recency bonus (last 36 hours)
     age_hours = max(0.0, (datetime.now() - article["published_at"]).total_seconds() / 3600.0)
     if age_hours <= 36:
         score += max(0.0, 3.5 * (1.0 - age_hours / 36.0))
 
-    # Assign primary category
     if any(k in haystack for k in ("startup", "founder", "series a", "series b", "seed round", "venture capital", "y combinator")):
         category = "Entrepreneurship & Venture"
     elif any(k in haystack for k in ("fed", "inflation", "interest rates", "markets", "blackrock", "jpmorgan", "ipo", "valuation")):
@@ -250,9 +246,11 @@ def classify_and_score(article: dict) -> dict:
 
 
 def render_executive_digest(ranked_items: list[dict], top_n: int = 10) -> str:
-    """Generate a dark-gold styled HTML executive dashboard + Markdown summary."""
+    """Generate a dark-gold styled HTML executive dashboard with Open Graph tags."""
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
     selected = ranked_items[:top_n]
+    lead_title = selected[0]["title"] if selected else PUBLICATION_NAME
+    lead_summary = selected[0]["summary"][:180] if selected and selected[0]["summary"] else "Daily business, finance & leadership radar."
 
     cards_html = []
     for idx, item in enumerate(selected, start=1):
@@ -282,7 +280,11 @@ def render_executive_digest(ranked_items: list[dict], top_n: int = 10) -> str:
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Global Business, Finance &amp; Social Radar - {now_str}</title>
+  <title>{html.escape(PUBLICATION_NAME)} - {now_str}</title>
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{html.escape(lead_title)}" />
+  <meta property="og:description" content="{html.escape(lead_summary)}" />
+  <meta property="og:url" content="{html.escape(NETLIFY_SITE_URL)}" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -374,7 +376,7 @@ def render_executive_digest(ranked_items: list[dict], top_n: int = 10) -> str:
   <div class="wrapper">
     <header>
       <div class="kicker">Executive Intelligence &amp; Social Radar</div>
-      <h1>Global Business, Finance &amp; Leadership Brief</h1>
+      <h1>{html.escape(PUBLICATION_NAME)}</h1>
       <div class="subtitle">Generated: {now_str} &middot; Top {len(selected)} High-Signal Stories</div>
     </header>
     {''.join(cards_html)}
@@ -388,14 +390,12 @@ def run_radar() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     raw_items = []
 
-    # 1. Fetch direct corporate & entrepreneurship feeds
     for label, url, bonus in DIRECT_FEEDS:
         try:
             raw_items.extend(fetch_rss(label, url, bonus, channel="Corporate / Ecosystem"))
         except Exception as exc:
             print(f"[Warning] Feed skipped ({label}): {exc}")
 
-    # 2. Fetch social media & global business leaders signals
     for label, query, bonus in SOCIAL_AND_LEADER_QUERIES:
         try:
             rss_url = build_google_news_rss_url(query)
@@ -406,7 +406,6 @@ def run_radar() -> None:
     if not raw_items:
         raise RuntimeError("No items retrieved. Check internet connection.")
 
-    # Deduplicate by normalized headline
     deduped = {}
     for item in raw_items:
         scored = classify_and_score(item)
@@ -417,19 +416,20 @@ def run_radar() -> None:
     ranked = sorted(deduped.values(), key=lambda x: x["score"], reverse=True)
     date_tag = datetime.now().strftime("%Y-%m-%d")
 
+    html_content = render_executive_digest(ranked, top_n=10)
     html_path = OUTPUT_DIR / f"business_radar_{date_tag}.html"
+    index_path = OUTPUT_DIR / "index.html"
     json_path = OUTPUT_DIR / f"business_radar_{date_tag}.json"
-    txt_path = OUTPUT_DIR / f"linkedin_digest_{date_tag}.txt"
+    txt_path = Path("linkedin_post.txt")
 
-    html_path.write_text(render_executive_digest(ranked, top_n=10), encoding="utf-8")
+    html_path.write_text(html_content, encoding="utf-8")
+    index_path.write_text(html_content, encoding="utf-8")
 
-    # Save structured JSON
     serializable = [
         {**r, "published_at": r["published_at"].isoformat()} for r in ranked[:25]
     ]
     json_path.write_text(json.dumps(serializable, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    # Save LinkedIn-ready text digest with active URLs
     linkedin_lines = [
         f"GLOBAL BUSINESS, FINANCE & LEADERSHIP RADAR ({date_tag})",
         "Top signals across global executives, corporations, venture ecosystems & social media:",
@@ -437,19 +437,12 @@ def run_radar() -> None:
     ]
     for i, item in enumerate(ranked[:5], start=1):
         linkedin_lines.append(f"{i}. [{item['category']}] {item['title']} ({item['publisher']})")
-        linkedin_lines.append(f"   Read: {item['link']}")
-        linkedin_lines.append("")
+    linkedin_lines.append("")
+    linkedin_lines.append(f"Full interactive brief with active links: {NETLIFY_SITE_URL}")
     linkedin_lines.append("#BusinessStrategy #Finance #Leadership #Entrepreneurship #GlobalMarkets")
     txt_path.write_text("\n".join(linkedin_lines), encoding="utf-8")
 
-    print("=== TOP 10 GLOBAL BUSINESS, FINANCE & LEADERSHIP SIGNALS ===")
-    for i, item in enumerate(ranked[:10], start=1):
-        print(f"{i:02d}. [{item['score']}] ({item['channel']} | {item['publisher']}) {item['title']}")
-        print(f"    Link: {item['link']}")
-
-    print(f"\nDashboard HTML: {html_path.resolve()}")
-    print(f"LinkedIn Text:  {txt_path.resolve()}")
-    print(f"JSON Data:      {json_path.resolve()}")
+    print(f"Updated {index_path} and {txt_path} for {NETLIFY_SITE_URL}")
 
 
 if __name__ == "__main__":
