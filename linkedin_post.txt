@@ -1,11 +1,11 @@
-GLOBAL BUSINESS, FINANCE & LEADERSHIP RADAR (2026-11-25)
+GLOBAL BUSINESS, FINANCE & LEADERSHIP RADAR (2026-11-26)
 Top signals across global executives, corporations, venture ecosystems & social media:
 
-1. [Corporate Strategy & Leadership] Monday’s news of Nvidia reinstating Jensen Huang buoyed the AI trade, but Anthropic was left out in the cold. https://t.co/k62ucWJJR7 - X (X)
-2. [Finance & Capital Markets] New Credit Facility Enhances Financial Flexibility (OpenAI News)
-3. [Corporate Strategy & Leadership] Jensen Huang Is Back at Nvidia. Is the AI Correction Over? The Nvidia board brought Jensen Huang back less than two weeks after he resigned, and the stock ripped 30%. 📈 On @bitsandbips, @ramahluwalia calls it the bottom for the AI trade, @austincampb - X (X)
-4. [Corporate Strategy & Leadership] Jensen Huang's return gave AI stocks a boost. But Nvidia is still down 37% since last month, and investors fear the good times are over. We ran through five reasons to panic (maybe just a little) 👇 🔗 https://t.co/VLwZUuws7F - X (X)
-5. [Corporate Strategy & Leadership] Unlike Jensen Huang, Dario Amodei reckons "open-weight" AI models are a menace. The Nvidia boss's shock returns means Anthropic might lose this fight, writes @parmy (via @opinion) https://t.co/PyZWkBKmWS - X (X)
+1. [Corporate Strategy & Leadership] Trump and Vance backed Jensen Huang's return to Nvidia partly because they see him as critical to protecting open-source AI. Their concern is that closed-model companies like OpenAI and Anthropic could become too powerful. Full story: https://t.co/ucz4jjEc - X (X)
+2. [Corporate Strategy & Leadership] Nvidia Stock to $620 by January? Meta AI Predicts Wild Rally After Jensen Huang’s Return - Tokenist (Tokenist)
+3. [Finance & Capital Markets] New Credit Facility Enhances Financial Flexibility (OpenAI News)
+4. [Corporate Strategy & Leadership] Jensen Huang’s return as NVIDIA CEO brings leadership certainty, but is unlikely to make GPUs cheaper or easier to access for Indian AI players anytime soon. With NVIDIA accounting for 81.6% of compute units listed on the IndiaAI Compute Portal, reducing - X (X)
+5. [Finance & Capital Markets] Scaling AI for everyone (OpenAI News)
 
 Full interactive brief with active links: https://globalbusinessradar.netlify.app
 #BusinessStrategy #Finance #Leadership #Entrepreneurship #GlobalMarkets

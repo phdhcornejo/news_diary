@@ -1,0 +1,407 @@
+[
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Trump and Vance backed Jensen Huang's return to Nvidia partly because they see him as critical to protecting open-source AI. Their concern is that closed-model companies like OpenAI and Anthropic could become too powerful. Full story: https://t.co/ucz4jjEc - X",
+    "summary": "Trump and Vance backed Jensen Huang's return to Nvidia partly because they see him as critical to protecting open-source AI. Their concern is that closed-model companies like OpenAI and Anthropic could become too powerful. Full story: https://t.co/ucz4jjEc X",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GSXBsYWUtYW50QmNjbkZLaWxUbkpMbElTdFVBRkpDUWJsb2MxRmZFSXpiclBUQXdfODA3RXphZ1F4TndlZHM1YkdoVVdpNllsRXhVQTVUb1BmbVo1aGswQjNTaEpxZw?oc=5",
+    "published_at": "2026-11-25T22:00:11",
+    "score": 19.88,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Anthropic",
+      "Jensen Huang",
+      "Nvidia",
+      "Openai"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "Global CEOs & Megacorps",
+    "publisher": "Tokenist",
+    "base_bonus": 3.0,
+    "title": "Nvidia Stock to $620 by January? Meta AI Predicts Wild Rally After Jensen Huang’s Return - Tokenist",
+    "summary": "Nvidia Stock to $620 by January? Meta AI Predicts Wild Rally After Jensen Huang’s Return Tokenist",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHR1WkYxb0NDMm92ejlYWklaN2t0Q0RfbEx2cndXMk5NaUF5Ty1ESktpa3NTME54MkhhcWdTRXVGQTJFekZ2VlVBTi1yLWJYSHh0bjNwOUlGajNMZ3Ytdno1QzVMbEVaVjBoV2JoOG9ZVjZ5dExRSHJsUWltVkNubWctdm1WLXZpaDAxdDdkMzFic0NJV1ZmYll0ZFV4U2wtM0Z1Sm1wd2h1VlE?oc=5",
+    "published_at": "2026-11-26T12:39:37",
+    "score": 19.31,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "META",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Corporate / Ecosystem",
+    "feed_group": "OpenAI News",
+    "publisher": "OpenAI News",
+    "base_bonus": 3.5,
+    "title": "New Credit Facility Enhances Financial Flexibility",
+    "summary": "In addition to securing $6.6 billion in new funding from leading investors, we have established a new $4 billion credit facility with leading banks, including JPMorgan Chase, Citi, Goldman Sachs, Morgan Stanley, Santander, Wells Fargo, SMBC, UBS, and HSBC.",
+    "link": "https://openai.com/index/new-credit-facility-enhances-financial-flexibility",
+    "published_at": "2024-10-03T07:00:00",
+    "score": 17.5,
+    "category": "Finance & Capital Markets",
+    "matched_entities": [
+      "Goldman Sachs",
+      "Jpmorgan",
+      "Morgan Stanley"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Jensen Huang’s return as NVIDIA CEO brings leadership certainty, but is unlikely to make GPUs cheaper or easier to access for Indian AI players anytime soon. With NVIDIA accounting for 81.6% of compute units listed on the IndiaAI Compute Portal, reducing - X",
+    "summary": "Jensen Huang’s return as NVIDIA CEO brings leadership certainty, but is unlikely to make GPUs cheaper or easier to access for Indian AI players anytime soon. With NVIDIA accounting for 81.6% of compute units listed on the IndiaAI Compute Portal, reducing X",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrS3ZCams1ZTVVU1JxeUxEZ3lybkVEZTBfR1R6NzBCYmgzMXVuelFKUHZONmp0QWI4VmU1Q2U4WUtzTndMY3dHbjBJeTRHelYtcVBhQWRWanFXUQ?oc=5",
+    "published_at": "2026-11-26T16:29:47",
+    "score": 17.18,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Corporate / Ecosystem",
+    "feed_group": "OpenAI News",
+    "publisher": "OpenAI News",
+    "base_bonus": 3.5,
+    "title": "Scaling AI for everyone",
+    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "link": "https://openai.com/index/scaling-ai-for-everyone",
+    "published_at": "2026-02-27T05:30:00",
+    "score": 15.5,
+    "category": "Finance & Capital Markets",
+    "matched_entities": [
+      "Amazon",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Corporate / Ecosystem",
+    "feed_group": "OpenAI News",
+    "publisher": "OpenAI News",
+    "base_bonus": 3.5,
+    "title": "Frontier Model Forum updates",
+    "summary": "Together with Anthropic, Google, and Microsoft, we’re announcing the new Executive Director of the Frontier Model Forum and a new $10 million AI Safety Fund.",
+    "link": "https://openai.com/index/frontier-model-forum-updates",
+    "published_at": "2023-10-25T07:00:00",
+    "score": 15.0,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Anthropic",
+      "Google",
+      "Microsoft"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "“Are Jensen Huang and NVIDIA TOO BIG TO BE HELD ACCOUNTABLE?” Former Chief Speechwriter for President Bill Clinton David Kusnet warns that a lack of corporate accountability could undermine public trust and US economic competitiveness. - X",
+    "summary": "“Are Jensen Huang and NVIDIA TOO BIG TO BE HELD ACCOUNTABLE?” Former Chief Speechwriter for President Bill Clinton David Kusnet warns that a lack of corporate accountability could undermine public trust and US economic competitiveness. X",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlRkhUOEt6aEw3cHZxZHBFV01qMG5iekc2WXJ5ZjEwSWVQRnJpZ1JLNlN2dlRyVjlvZVhYUmdma01OcHFHWHUwQlNSN3Z6ak1lRkdlczR3cWlPUlJVZHlIMm5va1g?oc=5",
+    "published_at": "2026-11-26T19:12:00",
+    "score": 14.95,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Denny's gushed over Nvidia CEO Jensen Huang, confirming a booth plaque honoring him and the company is back up after his temporary ouster. https://t.co/HFiPd2UPHf - X",
+    "summary": "Denny's gushed over Nvidia CEO Jensen Huang, confirming a booth plaque honoring him and the company is back up after his temporary ouster. https://t.co/HFiPd2UPHf X",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84NzdQeDZjbklMZHctT1pLOVp6RFlyS3dHelQzeVh0YWU1bG5Xc1hUV0ppQlpxZER4aDRzTTRHWlFYdGZ1V0RObHZHUHB4bXZGeU4wNF92NnRJTEE5aXc?oc=5",
+    "published_at": "2026-11-26T19:00:32",
+    "score": 14.93,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia. - X",
+    "summary": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia. X",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Sc1VSZkdYT2l6ZnUxRE1JS0htTW1BTXBfNm1CbE5qS28tb29FdjA4TDdhYTA4TVJIMmpvWm9lX2EyNnlyLXJtOWFqMFVWUXV6ZHdVTG1TNm81X3pRSVE?oc=5",
+    "published_at": "2026-11-26T18:19:21",
+    "score": 14.86,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "U.S. Vice President JD Vance says the Trump administration received assurances that Jensen Huang was not under investigation before Nvidia’s board brought him back as CEO. According to Vance, Huang was a victim of “anonymous reporting” and “not act - X",
+    "summary": "U.S. Vice President JD Vance says the Trump administration received assurances that Jensen Huang was not under investigation before Nvidia’s board brought him back as CEO. According to Vance, Huang was a victim of “anonymous reporting” and “not act X",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xZmFYYV9Gb3QyYjM2N005VjIzSXA0Mkh6T19taVJsRTk5aklSTElxeGttREdxaFF5TkZiTXYxLTUtcHB4SU54LVpIMWNfSmo0bjl3SFRVV05MeUpxMnAyWDh5NUljQ1NQbXhTMw?oc=5",
+    "published_at": "2026-11-26T17:20:58",
+    "score": 14.77,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Denny's praises Nvidia CEO Jensen Huang, confirms booth plaque back up https://t.co/DSkii9RtK6 - X",
+    "summary": "Denny's praises Nvidia CEO Jensen Huang, confirms booth plaque back up https://t.co/DSkii9RtK6 X",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xa2NqT1JrUTFoSnN2c19tS3diRXRCX1QtTG1HUGh2SVFVRlhjVFBjQ09oQTRCZ0NualEwYUM1c3drTkQ5Wmp6cHlRU0o0M3QxcXdwWGFDNXlPd0VZclE?oc=5",
+    "published_at": "2026-11-26T17:15:10",
+    "score": 14.76,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Jensen Huang survived his scandal, but China’s remote access to Nvidia chips didn’t https://t.co/C6f4egrksQ - X",
+    "summary": "Jensen Huang survived his scandal, but China’s remote access to Nvidia chips didn’t https://t.co/C6f4egrksQ X",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ldVZyUXBqYlQ1d3NTVHlBRHRZOTc0c05mQW5JakcyeFVaZEZndHN5Tm5ZYmNDTkdkRENObDFabUJHRk0wbnlXcm5lbWVUZjV0YnJTT0VBOVNYT2JDb2hjM1lkQQ?oc=5",
+    "published_at": "2026-11-26T17:11:03",
+    "score": 14.75,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "While many have argued that Trump’s push to reinstate Jensen Huang as the CEO of Nvidia is a clear sign of the administration’s corruption, @cjcmichel points to three other recent scandals that shouldn’t be forgotten. Watch the full interview here: https://t.co/k - X",
+    "summary": "While many have argued that Trump’s push to reinstate Jensen Huang as the CEO of Nvidia is a clear sign of the administration’s corruption, @cjcmichel points to three other recent scandals that shouldn’t be forgotten. Watch the full interview here: https://t.co/k X",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54TXl3UDlkSnVoSnA5Y0hXTkxrN196dFNVNW9UUUpzbU92T0VOREU1eUlZMnB6SmZ2MWhtQS10SVNmYU9MeHg0RWp1clZaXzVjOE9uOElhQUctczhMMWhqbkRmbTdDZnEzQXJDY2dHRQ?oc=5",
+    "published_at": "2026-11-26T16:04:04",
+    "score": 14.64,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "Global CEOs & Megacorps",
+    "publisher": "Yahoo Finance",
+    "base_bonus": 3.0,
+    "title": "Dan Ives Says Nvidia’s Jensen Huang Worth At Least $8 Trillion To US Economy, Calls Sell-Off A ‘Gut Check Moment’ - Yahoo Finance",
+    "summary": "Dan Ives Says Nvidia’s Jensen Huang Worth At Least $8 Trillion To US Economy, Calls Sell-Off A ‘Gut Check Moment’ Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRExUZ05aeW9qeDNSU29nOU9xQWFQWjlwYTIta2VaTjdzX2dnbERqbzhmUjhVcGRIMllEWUtfQ0VLWTQxcng1ZWlnZUtpNWpoZ2kzMjdJb0oyUnoyVUJfYlNWNDZYanJPbU4zbXE2UFlFazFjOElOaWpBblhmendIWGFHUnpsa2JMM0tXUFRRQmZxMDFkQVRV?oc=5",
+    "published_at": "2026-11-25T18:59:57",
+    "score": 14.59,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "around 2009, Jensen Huang told a room of students where he saw himself in the future lol \"my best forecast for me is that I am 80 years old and I'm here talking to students and I hope I'm still the CEO\" back then he also said Nvidia could \"become one of the mo - X",
+    "summary": "around 2009, Jensen Huang told a room of students where he saw himself in the future lol \"my best forecast for me is that I am 80 years old and I'm here talking to students and I hope I'm still the CEO\" back then he also said Nvidia could \"become one of the mo X",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2YlBIZFowcVFZX0RhclpnLUUxTThBRk0yNDctc0pnS3NEMWxZenRMZWtCVFJCS296QVk2X043U2N5cTl5U3FkUzBVYV8tNVFZMzVEem1BbFA5aTFFbE5La3FwaDM?oc=5",
+    "published_at": "2026-11-26T14:56:45",
+    "score": 14.53,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Nvidia's board unanimously reinstated Jensen Huang as CEO just days after accepting his resignation over personal misconduct. Trump's intervention helped secure Huang's return, raising questions about political influence over corporate governance. Full st - X",
+    "summary": "Nvidia's board unanimously reinstated Jensen Huang as CEO just days after accepting his resignation over personal misconduct. Trump's intervention helped secure Huang's return, raising questions about political influence over corporate governance. Full st X",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DTzN1Y21VMTZ5ZTNSMkpCTGFqZl9tQ3IxYUE2OGNmS19XejNCNVhFeTdJRC1ZcWxSQlJOVmpkZ0NPTVhhUHdhcU9zbjBRQkFXNU9yWmtwa0xpTEk5VXRaQWxLcVc3UQ?oc=5",
+    "published_at": "2026-11-26T14:30:09",
+    "score": 14.49,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "🔊 No formal investigation was opened into Jensen Huang before President Trump backed his return. Instead, the administration relied on separate probes into Nvidia clients suspected of smuggling advanced chips to China. More on Reuters World News https: - X",
+    "summary": "🔊 No formal investigation was opened into Jensen Huang before President Trump backed his return. Instead, the administration relied on separate probes into Nvidia clients suspected of smuggling advanced chips to China. More on Reuters World News https: X",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JRXpvbDhKZWJEMy1iTHoyRi03LW9meF8tVENQN3BYNndPS0tjM1dNV2ppOGtxVWEwX013U1NFYzE4Q213UVBMQ1JXWVl0djgwenJuR1ZwNUFaTlFL?oc=5",
+    "published_at": "2026-11-26T14:15:10",
+    "score": 14.46,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Nvidia Jensen Huang News Live Updates: Vance rules out pardon as China chip scrutiny grows https://t.co/XTmYTFDM59 - X",
+    "summary": "Nvidia Jensen Huang News Live Updates: Vance rules out pardon as China chip scrutiny grows https://t.co/XTmYTFDM59 X",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OZFg3dWZfMWdhWGFnelFhVWJOOENHVGdJV3ZjNmJ5VzhJSTdaOXk0UWdraWJhNy1Na0gwWTNBMVZOYTR4THF4SS1HLVZnTllyYV85bUFBaVR2Wkk0UkxPVG5RTGU?oc=5",
+    "published_at": "2026-11-26T13:36:10",
+    "score": 14.4,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Vance says Jensen Huang won’t need a pardon as scrutiny of Nvidia scandal builds in Washington https://t.co/YuaJ46jMD6 - X",
+    "summary": "Vance says Jensen Huang won’t need a pardon as scrutiny of Nvidia scandal builds in Washington https://t.co/YuaJ46jMD6 X",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpdFhQTUxJNVc4Vk5EU2p4eHhXbi1YbW96U3g1MjByQ2NhN3ZHX0x5R0E4ZjNidjFJb3FwWk1XbVc0a1RaWnliejdqTnhMcUNueURLZW1wUHp5N0RwOHZuall3?oc=5",
+    "published_at": "2026-11-26T13:35:01",
+    "score": 14.4,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Jensen Huang is officially back at the helm of Nvidia—and while Wall Street celebrated the return of the AI trade’s biggest dealmaker, intense scrutiny is already waiting. On The Rundown, @EdLudlow breaks down the whirlwind 48 hours behind Huang’s reins - X",
+    "summary": "Jensen Huang is officially back at the helm of Nvidia—and while Wall Street celebrated the return of the AI trade’s biggest dealmaker, intense scrutiny is already waiting. On The Rundown, @EdLudlow breaks down the whirlwind 48 hours behind Huang’s reins X",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92N0JDNnhuZUdIZnpsZUcyOVhFelgxX19kY0NYWTY5QVdzcV8zcVpMTGhDeVRQSkRNVDR6b3BCakhLRXJ6YUNWYktheUd0VjJ4ZXpUTnB2WlZfaDI3ZE52aU9R?oc=5",
+    "published_at": "2026-11-26T13:00:08",
+    "score": 14.34,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "Global CEOs & Megacorps",
+    "publisher": "Yahoo Finance",
+    "base_bonus": 3.0,
+    "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer - Yahoo Finance",
+    "summary": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3ZDaWhTMllvUEx6RzRWLUpFQW11TnpqYXZiTi1VZzdjUVl2aUhYUUVVeHctWVdiMmJCXzVaRDhFX2xmS2k1QWM2M1VpcWtqQVBiUDV2dXRXNWQ3MEI4N2pmcjB3UVo5bXNqbDFMMG5MOU9sWVIyTlk4b3ZhRTVUZDEwd3prLVVxX092d2xZc1dqZmYwcE5yemF5S2s?oc=5",
+    "published_at": "2026-11-26T17:35:02",
+    "score": 14.29,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Nvidia",
+      "Warren Buffett"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Jensen Huang is back as Nvidia CEO, and so is his Denny's plaque. The diner found it down after he resigned and rehung it. - X",
+    "summary": "Jensen Huang is back as Nvidia CEO, and so is his Denny's plaque. The diner found it down after he resigned and rehung it. X",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qWUsyeWNkWGZDS2FoUTdFSmVFYVZSMnFMcTNvVFZpd092aXFZWmVoN2NEbDVVMERqN2p4NG9RdXA0bEg3XzBKZEJ4N2plNjNoOS1WeTNSdlhJeExxLVE?oc=5",
+    "published_at": "2026-11-26T12:18:24",
+    "score": 14.27,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "Global CEOs & Megacorps",
+    "publisher": "Crypto Briefing",
+    "base_bonus": 3.0,
+    "title": "Jensen Huang’s return to Nvidia exposes risks of concentrated AI infrastructure, io.net strategist says - Crypto Briefing",
+    "summary": "Jensen Huang’s return to Nvidia exposes risks of concentrated AI infrastructure, io.net strategist says Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHlIVTlqVFI0T0NxSmpFWFh5UTBqTjBtMkJzRjA5Y3E2UFdlb1B6bFNjN1RYVTJDQzhXTTZYd0pyVS1rRDh1Yk9CNmtPVFJVT21ROEctMUFOUUw3cFpwNGctYmV4d0poeldBT3NWOWFWQQ?oc=5",
+    "published_at": "2026-11-26T16:46:52",
+    "score": 14.21,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "OPINION: Jensen Huang's return to Nvidia tests America's AI strategy Export controls should target proven threats, not treat every China tie as suspect. https://t.co/LEdNn8q1Yf - X",
+    "summary": "OPINION: Jensen Huang's return to Nvidia tests America's AI strategy Export controls should target proven threats, not treat every China tie as suspect. https://t.co/LEdNn8q1Yf X",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BbDdOTWk1bE16eG5FZkJ3b2FnWEhhdDdDTmd1OWtjLW9wWDhXMmo0d3F5Ykx0X3VUMlJ0dW5wa3FXalA0cm4zNlR4M3I0elAwN0dXZGhwSWJjWE0yV045NQ?oc=5",
+    "published_at": "2026-11-26T09:15:04",
+    "score": 13.98,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "The controversy surrounding #Nvidia chief Jensen Huang comes as the US tightens controls on Chinese access to advanced #AI chips. It highlights how corporate relationships and semiconductor access intersect with the wider #US-#China contest for AI lead - X",
+    "summary": "The controversy surrounding #Nvidia chief Jensen Huang comes as the US tightens controls on Chinese access to advanced #AI chips. It highlights how corporate relationships and semiconductor access intersect with the wider #US-#China contest for AI lead X",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4ekVHaDdia0R3cWYwaW1FN3FpS18zWlhNUVJJUmxHUklDM2dwRUI3X2tFYmlybEJOT0dDRjB0dWdfNHFCYjlKNmJWM3hRNzVla2xYcGRKQXpBbU5QV2ZJ?oc=5",
+    "published_at": "2026-11-26T09:11:19",
+    "score": 13.97,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  }
+]
