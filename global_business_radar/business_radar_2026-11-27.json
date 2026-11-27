@@ -1,0 +1,409 @@
+[
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Trump and Vance backed Jensen Huang's return to Nvidia partly because they see him as critical to protecting open-source AI. Their concern is that closed-model companies like OpenAI and Anthropic could become too powerful. Full story: https://t.co/ucz4jjEc - X",
+    "summary": "Trump and Vance backed Jensen Huang's return to Nvidia partly because they see him as critical to protecting open-source AI. Their concern is that closed-model companies like OpenAI and Anthropic could become too powerful. Full story: https://t.co/ucz4jjEc X",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZTmU2MUJNdmNibkpUZkxyNXlCXzhsWlprVkFmRFZmb01PU1BMd21uNUJIZVNEQTZTaVdMU3FJMDNEelRQZjFXSW44ZmZ5aUNIMC1GYlV4R05GTlFzV1ZiS3dPNmZmUQ?oc=5",
+    "published_at": "2026-11-26T22:00:07",
+    "score": 20.4,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Anthropic",
+      "Jensen Huang",
+      "Nvidia",
+      "Openai"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "Global CEOs & Megacorps",
+    "publisher": "Benzinga",
+    "base_bonus": 3.0,
+    "title": "Elon Musk's SpaceX Slashes Nvidia Blackwell GPU Rental Rates by Up to 35%, While Anthropic May Not Renew - Benzinga",
+    "summary": "Elon Musk's SpaceX Slashes Nvidia Blackwell GPU Rental Rates by Up to 35%, While Anthropic May Not Renew Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUnRjV1lYTVBCWnRfSXB3VnVId1l4N0I1TGs5NWFQVWVJdnZxVEZNaURyeHNDUWducE1ZTVdvMk5hdnp4RkpNZWI4RXNDcXdTeThnc21Qd0RhS1FCdnl0Tk9tdC1WUDkyUkFvcktsX2dXajNGazlsZ3J6eVdSVjM5Y0ZDbGNiNFI4dHo2YV9nVkJFaDFtTHpIUUlQSjlMZmhNYjhGTzJGOHJKUkxYbEFMSlJTOUpIVjJCbXpPaWdkanFNRXhTQkRYc015cFN6OVJuc3ZNZ1RabzdpXzc4QW5pZmczUjUxdGdLNlpZVGJ3WTdqUHNFa0NwdlJWOVdETnYt?oc=5",
+    "published_at": "2026-11-27T12:49:29",
+    "score": 19.34,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Anthropic",
+      "Elon Musk",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "Global CEOs & Megacorps",
+    "publisher": "saastr.com",
+    "base_bonus": 3.0,
+    "title": "20VC x SaaStr: Anthropic’s $1.5 Trillion IPO, Jensen Huang’s Return, and Mailchimp Sells for Under a Third of What Intuit Paid - saastr.com",
+    "summary": "20VC x SaaStr: Anthropic’s $1.5 Trillion IPO, Jensen Huang’s Return, and Mailchimp Sells for Under a Third of What Intuit Paid saastr.com",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMkVmUTRZVDd5OExwd0NHZUtpMWxOWl9ENS1fOE9OSmZ0QzRqaDJZMVkwMUJLX0dqQUozVkVUNjJKRFdnalpXNFAyXzU2NW4tZGQ3LVlfNFBiaVpDOVdzVVVlVGxBeDF6WDZ3aFVIcWk0VHVuWGp6Y1h6eWJGeHJYU1BjempZUkRCN1BpMjB2WHVHczB0OGlUNm5ka2txRFJXdXZXWlBJTGU2Rl9YX2d3VThFa0FLSFFZRmhWQzVkcHloNFVkd1NVRU5fTTJEanZHX25oYlotR0o1aUlB?oc=5",
+    "published_at": "2026-11-26T21:13:12",
+    "score": 18.83,
+    "category": "Finance & Capital Markets",
+    "matched_entities": [
+      "Anthropic",
+      "Jensen Huang"
+    ]
+  },
+  {
+    "channel": "Corporate / Ecosystem",
+    "feed_group": "OpenAI News",
+    "publisher": "OpenAI News",
+    "base_bonus": 3.5,
+    "title": "New Credit Facility Enhances Financial Flexibility",
+    "summary": "In addition to securing $6.6 billion in new funding from leading investors, we have established a new $4 billion credit facility with leading banks, including JPMorgan Chase, Citi, Goldman Sachs, Morgan Stanley, Santander, Wells Fargo, SMBC, UBS, and HSBC.",
+    "link": "https://openai.com/index/new-credit-facility-enhances-financial-flexibility",
+    "published_at": "2024-10-03T07:00:00",
+    "score": 17.5,
+    "category": "Finance & Capital Markets",
+    "matched_entities": [
+      "Goldman Sachs",
+      "Jpmorgan",
+      "Morgan Stanley"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "Global CEOs & Megacorps",
+    "publisher": "Yahoo Finance",
+    "base_bonus": 3.0,
+    "title": "Elon Musk didn’t sell a single share in SpaceX’s record $85.7B IPO. Anthropic’s 7 cofounders cashed out $1.96B in theirs - Yahoo Finance",
+    "summary": "Elon Musk didn’t sell a single share in SpaceX’s record $85.7B IPO. Anthropic’s 7 cofounders cashed out $1.96B in theirs Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcF95VDVfWEJCUU9RTm0tQzA4Rmt2TVpFYVVBQmd1QS1MNVh0Q3Z2aEtmV09tU0RpU0daRlBzQzFiczhHbWdMdkxxSkdNalYzcjlEb292bWlnUV9vNDliSzNZaFYydjJPU3NieVotLUs2ZHJ6RTg2UUZSeVVWdVBkOVVoWFRBMC1YYklhMGJsMA?oc=5",
+    "published_at": "2026-11-26T17:00:00",
+    "score": 17.42,
+    "category": "Entrepreneurship & Venture",
+    "matched_entities": [
+      "Anthropic",
+      "Elon Musk"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "Global CEOs & Megacorps",
+    "publisher": "Yahoo Finance",
+    "base_bonus": 3.0,
+    "title": "Warren Buffett's Successor, Greg Abel, Has 47% of Berkshire Hathaway's $346 Billion Portfolio Invested in 3 Proven Winners - Yahoo Finance",
+    "summary": "Warren Buffett's Successor, Greg Abel, Has 47% of Berkshire Hathaway's $346 Billion Portfolio Invested in 3 Proven Winners Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM3dDbG5iMlhpN1Q5U0RCTzhMdXJ6WFhYcVZ4Sk1zZS1VQ2F5N1BidWM5V1dIbm5NTTBXRjBKNlVHZklrUnprQ1dScEJkWEdGVnZrU25Pek13LWtSY2dBNkxTWGFSWlNrVHc5N1cya2RYLWxfOTFnc01wNjZBSS1vT3NNZlV6V0FVZ0FqNDFaMzVUTDR2Z29hRm9EZlp2ci03QXc?oc=5",
+    "published_at": "2026-11-27T10:26:02",
+    "score": 17.11,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Berkshire Hathaway",
+      "Warren Buffett"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "Global CEOs & Megacorps",
+    "publisher": "Performance Marketing World",
+    "base_bonus": 3.0,
+    "title": "Nvidia reinstates Jensen Huang and Microsoft launches ads in AI Overviews: Latest industry moves - Performance Marketing World",
+    "summary": "Nvidia reinstates Jensen Huang and Microsoft launches ads in AI Overviews: Latest industry moves Performance Marketing World",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzJpWjN5ZXFldE9TMUxuTHVWMDdtQldrYmZkeFcwS01sLUxGY29pSl9kQlNGUkt2d1JzNWhwUFlfU0pjZDBqVGpmUWJodzVxNFp6eGFiUTVTMzM0RXRxaVNCeE0xYmxBZ3pzMHlMeE5zY1ZnMVBwc3Z5MHVtUXlTZ0trZlB5YXNpZU1SVVdWeTJkS0dRTEJkM2lJYk8zU0lsLTFyU1l0LTIzWm9ESkhQVlYxRXNySGhnWUZoRWsxeWQxQWRuLVY5VHhjM29ndnR5R3NRbWJ6ek93YUJlMWlz?oc=5",
+    "published_at": "2026-11-27T10:04:28",
+    "score": 17.08,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Microsoft",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Years before Jensen Huang plunged Nvidia into crisis and faced doubts he could ever return, Elon Musk was at the center of a potential reckoning in his business empire. https://t.co/sAnhlnZmz9 - X",
+    "summary": "Years before Jensen Huang plunged Nvidia into crisis and faced doubts he could ever return, Elon Musk was at the center of a potential reckoning in his business empire. https://t.co/sAnhlnZmz9 X",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwN3gtYkdlWVNnS01rQzliWERFRlFXYXpPZXNGUVpXaVhpQU5GYXZvbHJSeG9zZjlqS0JKaTdBZTdTSlFMX0t4N3RFRmxXeUw1cDFXdkdJMzg4cVpZLUVUazcwWi0zdw?oc=5",
+    "published_at": "2026-11-26T22:00:10",
+    "score": 16.9,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Elon Musk",
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Nvidia's decision to reinstate co-founder Jensen Huang as chief executive has reignited debate over sexism, corporate accountability and the treatment of women in the technology industry. Read on https://t.co/8ANDhSkklc #business #SexismDebate #Double - X",
+    "summary": "Nvidia's decision to reinstate co-founder Jensen Huang as chief executive has reignited debate over sexism, corporate accountability and the treatment of women in the technology industry. Read on https://t.co/8ANDhSkklc #business #SexismDebate #Double X",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9meldjaG5ORld6LWZlaGlvYUpGRUs4SXk3Q0dDbFI1bjVQaHVub3Q4Z0d0dnRzbHQ2anBpbzAxUzJwc2xnVjZHOERFSUNNbk1FQTdyNWIybw?oc=5",
+    "published_at": "2026-11-27T08:13:41",
+    "score": 16.9,
+    "category": "Entrepreneurship & Venture",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Corporate / Ecosystem",
+    "feed_group": "OpenAI News",
+    "publisher": "OpenAI News",
+    "base_bonus": 3.5,
+    "title": "Scaling AI for everyone",
+    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "link": "https://openai.com/index/scaling-ai-for-everyone",
+    "published_at": "2026-02-27T05:30:00",
+    "score": 15.5,
+    "category": "Finance & Capital Markets",
+    "matched_entities": [
+      "Amazon",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "📌 Nvidia CEO Jensen Huang’s return raises questions over US chipmaker’s reliance on its co-founder and corporate governance 🔹 Experts tell Anadolu his reinstatement gives Nvidia time to develop a credible successor ▪️ Huang denies US President Donal - X",
+    "summary": "📌 Nvidia CEO Jensen Huang’s return raises questions over US chipmaker’s reliance on its co-founder and corporate governance 🔹 Experts tell Anadolu his reinstatement gives Nvidia time to develop a credible successor ▪️ Huang denies US President Donal X",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54WlJkTkZiTDRfZ1JOR2V0cUJMcl9mRmtPaDJ4RnAwZFpfN2tnRjN1dmxBV1U5SGkwUE83aVlXbEljWlYzZGNUTTJoRFlaWW9VdEYzTGdtVm5rMC1fQVM3MnJsVmc?oc=5",
+    "published_at": "2026-11-26T14:10:00",
+    "score": 15.14,
+    "category": "Entrepreneurship & Venture",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Corporate / Ecosystem",
+    "feed_group": "OpenAI News",
+    "publisher": "OpenAI News",
+    "base_bonus": 3.5,
+    "title": "Frontier Model Forum updates",
+    "summary": "Together with Anthropic, Google, and Microsoft, we’re announcing the new Executive Director of the Frontier Model Forum and a new $10 million AI Safety Fund.",
+    "link": "https://openai.com/index/frontier-model-forum-updates",
+    "published_at": "2023-10-25T07:00:00",
+    "score": 15.0,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Anthropic",
+      "Google",
+      "Microsoft"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Denny’s celebrates Jensen Huang return to Nvidia: 'Your booth is waiting' - X",
+    "summary": "Denny’s celebrates Jensen Huang return to Nvidia: 'Your booth is waiting' X",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rOTZoVmlvVUwwQ0RLTWt5N1ZtaF9VQU1HenFWSDI0bzRiLVRoWEIyeUZOcFdoQjlnU3d3SWYzb1hjZmlNQlFFd2staUhJX2FHblk0TkdQZGJ0UQ?oc=5",
+    "published_at": "2026-11-27T13:00:11",
+    "score": 14.86,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Jensen Huang and NVIDIA are back in focus! 🚀 Explore the leadership and global impact of NVIDIA’s CEO and its role in the evolving AI landscape. #NVIDIA #JensenHuang #ArtificialIntelligence #AI #UPSC #CurrentAffairs #DrishtiIAS #DrishtiIASEnglish - X",
+    "summary": "Jensen Huang and NVIDIA are back in focus! 🚀 Explore the leadership and global impact of NVIDIA’s CEO and its role in the evolving AI landscape. #NVIDIA #JensenHuang #ArtificialIntelligence #AI #UPSC #CurrentAffairs #DrishtiIAS #DrishtiIASEnglish X",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RLUxzWVUta0Ixb25Xejc0cTRINEZ2MHpoaGZLZG5aUjhGSlFUS2VzbC0tYkpZREthQjZXM25pbXVyRjZGaUtnOEwwbTRIekkzMTlhYlZKVWExTTczendVQkgwSmU?oc=5",
+    "published_at": "2026-11-27T12:55:54",
+    "score": 14.85,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Jensen Huang may be back at the helm of Nvidia, but he and his company are still facing a barrage of investigations. Here is what he is facing: https://t.co/aFl6x0WG36 - X",
+    "summary": "Jensen Huang may be back at the helm of Nvidia, but he and his company are still facing a barrage of investigations. Here is what he is facing: https://t.co/aFl6x0WG36 X",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BQ1VJY2hIY3A4VjRwLTh3bjNGMDVObzNKQlZkZ3Q3N0dLTGV0dm81MHpwRlF3WWZ4eWZKT0RCajNaUUpNbXl4YV95cjNTbmppYWFjX0xR?oc=5",
+    "published_at": "2026-11-27T12:30:15",
+    "score": 14.81,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "While Jensen Huang has reclaimed his seat atop Nvidia, his days as Silicon Valley’s most visible and frequent emissary to China are likely over as the United States tightens its chip export controls, according to analysts. https://t.co/qQeMN94BEv - X",
+    "summary": "While Jensen Huang has reclaimed his seat atop Nvidia, his days as Silicon Valley’s most visible and frequent emissary to China are likely over as the United States tightens its chip export controls, according to analysts. https://t.co/qQeMN94BEv X",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTOWhRVHJ2Y3psMHMtQlFyaVF5cFdDZU5aTEtnMi1SV2dqVHFMOGU4b2JwSXZrTXhWRDBXMjRoNkhTcGw1RXlBLUdQWmYzRTdPdDhDOG9fejVsSVpMRHY3Vg?oc=5",
+    "published_at": "2026-11-27T11:30:13",
+    "score": 14.71,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Jensen Huang is back at Nvidia, but Southeast Asia’s AI industry still faces uncertainty over chip supplies and financing. What does this mean for AI founders in the region? Read Kevin Brockland’s insights via the link in bio. - X",
+    "summary": "Jensen Huang is back at Nvidia, but Southeast Asia’s AI industry still faces uncertainty over chip supplies and financing. What does this mean for AI founders in the region? Read Kevin Brockland’s insights via the link in bio. X",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mT0swREdQVElIYUEwWDlIQ1hTSy1IMTVYRlo1N2dTNGpNYV9oYm1ObDZZcTNXRnJRNVBrZEVtVkpIeHhfdEZuamJ3WkwybDBsczRZeVRaX0o0ZkpJNEFWUkdGMGJnUmsyLV9n?oc=5",
+    "published_at": "2026-11-27T11:00:40",
+    "score": 14.67,
+    "category": "Entrepreneurship & Venture",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Jensen Huang washed dishes at Denny's: Restaurant chain says Nvidia CEO remembers what he learned at the sink https://t.co/K6L4KVa6ox - X",
+    "summary": "Jensen Huang washed dishes at Denny's: Restaurant chain says Nvidia CEO remembers what he learned at the sink https://t.co/K6L4KVa6ox X",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QV3V2NnR1bC1TUk5CMnQ0NkFuRDBqcXVDNkRMTk0xU3hrbU9kNXhMUlBYNXZuZldHWFJ5dUZTQ0tINHg4cV9kNE1JMVdyOWdXYXB4WUZ1c0RPSHphbzhhMk5rRC0?oc=5",
+    "published_at": "2026-11-27T10:50:11",
+    "score": 14.65,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Jensen Huang’s comeback sparks new flood of Nvidia CEO parody videos https://t.co/dRYDjzifeB - X",
+    "summary": "Jensen Huang’s comeback sparks new flood of Nvidia CEO parody videos https://t.co/dRYDjzifeB X",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mbjNTMkFfRGRWcUFKWnpWV0FTb3ZqUXR0OXFSNUdERDdLTjZOTEdud3RlNTJmMUwySXlxQzJ6QmM3Y0NZNDhmYkJXOFM5SFVwb3UtTXhwaUVyV0FwVWVrS0hjNA?oc=5",
+    "published_at": "2026-11-27T10:30:16",
+    "score": 14.62,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "News of Jensen Huang's shocking return to Nvidia had barely landed when President Donald Trump posted an AI-generated image of the Nvidia cofounder holding up a red bra, surrounded by security personnel whisking him offstage, blood streaked across h - X",
+    "summary": "News of Jensen Huang's shocking return to Nvidia had barely landed when President Donald Trump posted an AI-generated image of the Nvidia cofounder holding up a red bra, surrounded by security personnel whisking him offstage, blood streaked across h X",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TNldPQTNUY1hkSGhVOXJ1Z0RFazVja2VZUVhXTTQyVkY4Z3lYQW5ia0hUdGdPajFac3R0MXdlQjVacFRNdnlKR3cxWGx2TXlMcGNySmRvT0k?oc=5",
+    "published_at": "2026-11-27T09:44:30",
+    "score": 14.54,
+    "category": "Entrepreneurship & Venture",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Nvidia CEO Jensen Huang’s return was reportedly planned by U.S. President Donald Trump and Vice President JD Vance, with several senior officials kept out of the loop. - X",
+    "summary": "Nvidia CEO Jensen Huang’s return was reportedly planned by U.S. President Donald Trump and Vice President JD Vance, with several senior officials kept out of the loop. X",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSN1hJcUI1N25UOFdCbzZmdUxNTkRDblFCdGdnbUVvSjRIZUZ2UHBOYVZkc0NaSWdQQUZ1eEdIWWpaZXhpdVVfT2xrVUhDby1zVlBJWDluSjBKMXhnRGwtUk96M1R2MDVhUHc?oc=5",
+    "published_at": "2026-11-27T09:41:32",
+    "score": 14.54,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Return of scandal-hit Jensen Huang to Nvidia triggers fresh avalanche of AI-generated parody videos https://t.co/GbIKJyXpOn - X",
+    "summary": "Return of scandal-hit Jensen Huang to Nvidia triggers fresh avalanche of AI-generated parody videos https://t.co/GbIKJyXpOn X",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fVkl3TnpqRU53NXV4UXRTekEtVzZWQjY2NDNpYllnNktSTk96Rl9LVFVKRjhtdDBleGFwb0xSeUJ5WXN5VHJWc3BEN2RCYUhkRzNfX201SQ?oc=5",
+    "published_at": "2026-11-27T08:47:03",
+    "score": 14.45,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "Watch | U.S. President Donald Trump defended Jensen Huang’s reinstatement as Nvidia CEO, stating that information available to him shows Huang poses no security threat, while Vice-President JD Vance dismissed anonymous reports ahead of Nvidia’s boa - X",
+    "summary": "Watch | U.S. President Donald Trump defended Jensen Huang’s reinstatement as Nvidia CEO, stating that information available to him shows Huang poses no security threat, while Vice-President JD Vance dismissed anonymous reports ahead of Nvidia’s boa X",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pQ0phUlFDV0VDNVAyMk9OcWlWYnNwNVlodlpIdHFNMGl6TWhqT1YxRV9WZXRKWGJUUkR0UGRaaEJxWm5QRW1XYXpNVDJhakFvU0ptQmduTUhKV21qX2s4?oc=5",
+    "published_at": "2026-11-27T08:41:04",
+    "score": 14.44,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "Global CEOs & Megacorps",
+    "publisher": "MarketWatch",
+    "base_bonus": 3.0,
+    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance - MarketWatch",
+    "summary": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance MarketWatch",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTkZ4TzUwSHNOaFYtVC1xcnRINWZVdHZnWGZCNHpqbUJ4dFF1QmJnNkFOS1Z5cUxRNlVaU0c0Y1JvSFRZMWFxRjU2VWgxWXhOX1hHZHZJc3k5Q3pWb1MwbDdfSU1WQTRjWjZFUWlsUEZlY3NoZUI2NF9mNk1teWRSS0VCdUZ4d1VvUW5mNS1KWWtqRENUX1NKNHpCdElhSnVjZXRIcE44TDRsMkN2VUI2cnZnd08xVVE4OThudzAwT2M0cWNB?oc=5",
+    "published_at": "2026-11-27T13:15:00",
+    "score": 14.38,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  },
+  {
+    "channel": "Social / Leaders",
+    "feed_group": "X / Twitter Business & Finance",
+    "publisher": "X",
+    "base_bonus": 3.5,
+    "title": "US President Donald Trump has welcomed Jensen Huang’s return, praising the NVIDIA CEO’s leadership and next-generation chips. Trump called the move a major win for America, as US officials reportedly found no national security risk in Huang’s return. # - X",
+    "summary": "US President Donald Trump has welcomed Jensen Huang’s return, praising the NVIDIA CEO’s leadership and next-generation chips. Trump called the move a major win for America, as US officials reportedly found no national security risk in Huang’s return. # X",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqS1lKOU1EQm9hcjFEMkRVR3JaVDB5aFZOM21kQXZBcnpBdFNXT1ZNeV9RWVhCQ01WN2l6V1kwMHRUdTNQWjRUQTFfZVNhU3h2WXEwZTJTQTNjVUhueU5jVXg1VVlUMHRGZHc?oc=5",
+    "published_at": "2026-11-27T07:38:56",
+    "score": 14.34,
+    "category": "Corporate Strategy & Leadership",
+    "matched_entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ]
+  }
+]
