@@ -29,3 +29,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add global_business_radar/ linkedin_post.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update daily global business radar" && git push)
+      - name: Publish to LinkedIn
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
+        run: python publish_linkedin.py
